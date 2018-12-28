@@ -1,0 +1,24 @@
+{
+  "name": "arcanumlibella",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcanumLibella/ArcanumLibella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcanumLibella/ArcanumLibella/issues"
+  },
+  "homepage": "https://github.com/ArcanumLibella/ArcanumLibella#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.15.2"
+  }
+}

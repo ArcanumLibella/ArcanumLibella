@@ -1,14 +1,14 @@
 /* Titres */
 @font-face {
   font-family: "Cinzel_Decorative";
-  src: url("/src/fonts/Cinzel_Decorative/cinzeldecorative-regular.woff2") format("woff2"), url("/src/fonts/Cinzel_Decorative/cinzeldecorative-regular.woff") format("woff");
+  src: url('./fonts/Cinzel_Decorative/cinzeldecorative-regular.woff2') format('woff2'), url('./fonts/Cinzel_Decorative/cinzeldecorative-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Cinzel_Decorative";
-  src: url("/src/fonts/Cinzel_Decorative/cinzeldecorative-black.woff2") format("woff2"), url("/src/fonts/Cinzel_Decorative/cinzeldecorative-black.woff") format("woff");
+  src: url('./fonts/Cinzel_Decorative/cinzeldecorative-black.woff2') format('woff2'), url('./fonts/Cinzel_Decorative/cinzeldecorative-black.woff') format('woff');
   font-weight: bolder;
   font-style: normal;
 }
@@ -16,28 +16,28 @@
 /* Corps de texte */
 @font-face {
   font-family: "Josefin_Slab";
-  src: url("/src/fonts/Josefin_Slab/Josefin_Slab-thin.woff2") format("woff2"), url("/src/fonts/Josefin_Slab/Josefin_Slab-thin.woff") format("woff");
+  src: url('./fonts/Josefin_Slab/Josefin_Slab-thin.woff2') format('woff2'), url('./fonts/Josefin_Slab/Josefin_Slab-thin.woff') format('woff');
   font-weight: lighter;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Josefin_Slab";
-  src: url("/src/fonts/Josefin_Slab/Josefin_slab_Thin-Italic.woff2") format("woff2"), url("/src/fonts/Josefin_Slab/Josefin_slab_Thin-Italic.woff") format("woff");
+  src: url('/src/fonts/Josefin_Slab/Josefin_slab_Thin-Italic.woff2') format('woff2'), url('./fonts/Josefin_Slab/Josefin_slab_Thin-Italic.woff') format('woff');
   font-weight: lighter;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Josefin_Slab";
-  src: url("/src/fonts/Josefin_Slab/Josefin_slab_Regular.woff2") format("woff2"), url("/src/fonts/Josefin_Slab/Josefin_slab_Regular.woff") format("woff");
+  src: url('./fonts/Josefin_Slab/Josefin_slab_Regular.woff2') format('woff2'), url('./fonts/Josefin_Slab/Josefin_slab_Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Josefin_Slab";
-  src: url("/src/fonts/Josefin_Slab/Josefin_slab_Italic.woff2") format("woff2"), url("/src/fonts/Josefin_Slab/Josefin_slab_Italic.woff") format("woff");
+  src: url('./fonts/Josefin_Slab/Josefin_slab_Italic.woff2') format('woff2'), url('./fonts/Josefin_Slab/Josefin_slab_Italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }
